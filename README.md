@@ -1,2 +1,3 @@
-# Content-Management-Tool
- this repository contains the source code for a dynamic website used as a Content Management Tool. Built by using HTML, CSS, Javascript,
+# Task1-Content-management-tool
+This Project is made for creating Blog Content Management Website using html, css, js where creating a blog adding photo, video and description.
+Published by Yogesh Maske
